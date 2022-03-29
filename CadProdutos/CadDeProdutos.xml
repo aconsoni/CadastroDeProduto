@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<produtos>
+    <produto id="1">
+        <Categoria>Alimenticio</Categoria>
+        <Nome>Bolacha</Nome>
+        <Marca>
+            <Nome>Bauduco</Nome>
+            <Preco>R$5</Preco>
+        </Marca>
+    </produto>
+    <produto id="1">
+        <Categoria>Bebida</Categoria>
+        <Nome>Refrigerante</Nome>
+        <Marca>
+            <Nome>Coca Cola</Nome>
+            <Preco>R$5</Preco>
+        </Marca>
+    </produto>
+</produtos>

@@ -1,0 +1,2 @@
+Produto, Categoria = Alimenticio, Nome= Bolacha, Marca= Bauduco, R$10
+Produto, Categoria = Bebida, Nome= Refrigerante, Marca= Coca Cola, R$5
